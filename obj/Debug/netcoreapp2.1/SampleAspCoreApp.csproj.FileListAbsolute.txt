@@ -1,0 +1,14 @@
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\bin\Debug\netcoreapp2.1\SampleAspCoreApp.deps.json
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\bin\Debug\netcoreapp2.1\SampleAspCoreApp.runtimeconfig.json
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\bin\Debug\netcoreapp2.1\SampleAspCoreApp.runtimeconfig.dev.json
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\bin\Debug\netcoreapp2.1\SampleAspCoreApp.dll
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\bin\Debug\netcoreapp2.1\SampleAspCoreApp.pdb
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.csprojAssemblyReference.cache
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.csproj.CoreCompileInputs.cache
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.RazorAssemblyInfo.cache
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.RazorAssemblyInfo.cs
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.AssemblyInfoInputs.cache
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.AssemblyInfo.cs
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.RazorTargetAssemblyInfo.cache
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.dll
+c:\users\sarat\source\repos\SampleAspCoreApp\SampleAspCoreApp\obj\Debug\netcoreapp2.1\SampleAspCoreApp.pdb
